@@ -3,6 +3,6 @@ import { createBoard } from '@wixc3/react-board';
 import App from '../../../src/App';
 
 export default createBoard({
-    name: 'App',
+    name: 'App-usability',
     Board: () => <App />,
 });
