@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# blank-css-modules
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It includes a single React component to start your project with, a sample [`wcs.config.js`](https://github.com/studio-templates/blank-css-modules/blob/main/wcs.config.js) with preconfigured keys, a `package.json` file to describe the project's packages and dependencies, and a folder and component structure to put everything neatly in its place.
 
-## Available Scripts
+This project uses CSS modules by default to scope your CSS classes and names locally.
 
-In the project directory, you can run:
+# Using the Project
+
+Fork the project from here: **`https://github.com/studio-templates/blank-css-modules.git`**
+
+After doing this, you can run any of the following scripts from the project directory.
 
 ### `npm start`
 
@@ -31,13 +35,19 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Note: This is a one-way operation. Once you `eject`, you can’t go back!**
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However, we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Installing the Project
+
+When WCS runs for the first time, you'll be asked to [run the project script](https://component-studio.wixanswers.com/en/article/kb37621]). Follow the prompts to get it done.
+
+Enjoy!
 
 ## Learn More
 
